@@ -1,0 +1,12 @@
+{
+  "name": "whya-tiktok-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}
